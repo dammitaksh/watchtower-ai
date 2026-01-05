@@ -11,9 +11,10 @@
   "dependencies": {
     "@radix-ui/react-dropdown-menu": "^2.0.6",
     "@radix-ui/react-popover": "^1.0.7",
+    "@radix-ui/react-scroll-area": "^1.2.10",
     "@radix-ui/react-separator": "^1.0.3",
     "@radix-ui/react-slider": "^1.1.2",
-    "@radix-ui/react-slot": "^1.0.2",
+    "@radix-ui/react-slot": "^1.2.4",
     "@tensorflow-models/coco-ssd": "^2.2.3",
     "@tensorflow/tfjs-backend-cpu": "^4.20.0",
     "@tensorflow/tfjs-backend-webgl": "^4.20.0",
